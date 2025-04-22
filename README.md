@@ -60,19 +60,20 @@ plt.show()
 
 
 ### OUTPUT:
-![WhatsApp Image 2025-04-22 at 17 50 10_6709ebf3](https://github.com/user-attachments/assets/5bfd91c8-b92e-43ab-aee3-ac200c49cf27)
-![WhatsApp Image 2025-04-22 at 17 50 20_f309b924](https://github.com/user-attachments/assets/80caedbe-25bb-4556-b8ca-ec72f5fbaab0)
-![WhatsApp Image 2025-04-22 at 17 50 29_60388b34](https://github.com/user-attachments/assets/1e6f4a7a-78b7-4943-8d68-e6bcb569d8e7)
+![WhatsApp Image 2025-04-22 at 17 54 47_2d533545](https://github.com/user-attachments/assets/e4a21277-f1c0-45a6-918e-926eff0a91fb)
 
 
 REGULAR DIFFERENCING:
+![WhatsApp Image 2025-04-22 at 17 54 59_245cf442](https://github.com/user-attachments/assets/8ae4da7f-9e47-45e3-b011-86685593c95f)
 
 
 SEASONAL ADJUSTMENT:
+![WhatsApp Image 2025-04-22 at 17 55 15_20bfbc60](https://github.com/user-attachments/assets/7e43109b-9f7b-4d18-9281-bbd82dfe023a)
 
 
 LOG TRANSFORMATION:
 
+![WhatsApp Image 2025-04-22 at 17 55 29_447f60cb](https://github.com/user-attachments/assets/59f60aeb-d6a5-439c-9fda-8bcdd133d8e2)
 
 
 ### RESULT:
